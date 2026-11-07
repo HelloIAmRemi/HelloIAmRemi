@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @HelloIAmRemi, I am a 3D Artist and hobbyist Gamedev !
+- 👋 Hi, I’m @HelloIAmRemi
+- 
 
 <!---
 HelloIAmRemi/HelloIAmRemi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
